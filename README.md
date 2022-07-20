@@ -8,6 +8,11 @@ Just Another Text Editor, or J.A.T.E., was developed in order for the users to b
 ## Usage
     
 The user can use the text editor to type in various things.
+The user can also install the app to access it as a PWA.
+The input of the user will be stored in the indexedDB.
+
+DEMO VIDEO:
+https://watch.screencastify.com/v/C6fREQ2pNQd3YgNz0Pz9 
     
     
 ## Questions
